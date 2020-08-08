@@ -1,7 +1,9 @@
 Course: AR305 - Distributed Systems of Automation
 
 Building a Server which whill host a webpage: index.html
+
 on the IP_ADDRESS:PORT
+
 allow clients to acces the webpage through the ip address and port
 
 
