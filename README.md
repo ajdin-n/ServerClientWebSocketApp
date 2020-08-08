@@ -2,7 +2,9 @@
 
 
 > Building a Server which whill host a webpage: index.html
+
 > on the IP_ADDRESS:PORT
+
 > allow clients to acces the webpage through the ip address and port
 
 
@@ -26,4 +28,4 @@ $ ./client IP_ADDRESS:PORT
 example:
 ```sh
 $ ./client 192.168.1.5:8080
-``
+```
